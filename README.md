@@ -18,7 +18,7 @@ __SOCKET-NODE-INTERVIEW__
 > Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
 
 ### Contexto:
-En algunos casos necesitamos compartir código con nuestros compañeros, profesores, etc. Necesitamos una herramienta en la cual haciendo uso de Socket y Node establecer una "Sala" en la cual con una URL única se pueda compartir, y editar por cada uno de los participantes  sin necesidad de logearse ni registrarse solo compartiendo la URL se puedan unir de 1 a 3 personas y poder colaborar en tiempo real.
+En algunos casos necesitamos compartir código con nuestros compañeros, profesores, etc. Necesitamos una herramienta en la cual haciendo uso de Socket y Node establecer una "Sala" en la cual con una URL única se pueda compartir, y editar en tiempo real por cada uno de los participantes sin necesidad de logearse ni registrarse solo compartiendo la URL se puedan unir de 1 a 3 personas y poder colaborar en tiempo real.
 
 ![](https://cdn.loom.com/sessions/thumbnails/e435231a4b564b20ac3c8cde5dcd2f9a-00001.gif)
 > __Atención__ La imagen es referencial, pero se quiere representar la idea, no debe ser exactamente igual.
