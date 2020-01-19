@@ -65,7 +65,7 @@ Se debe poder editar código o texto en tiempo real por todos los participantes 
 
 ### 4. Style y Export
 
-![](https://i.imgur.com/vW20VPl.png)
+![](https://i.imgur.com/JceGHML.png)
 
 __REQUERIMIENTO:__
 Se debe implementar un "rich-text" el cual le de un estilo de colores al código, por otro parte se debe agregar un botón para poder descargar el código en un archivo.
